@@ -45,7 +45,7 @@ CONSUMER_SECRET=your-pesapal-consumer-secret
 ## Usage
 * Start the FastAPI server
 ```
-uvicorn main:app --reload
+$ uvicorn main:app --reload
 ```
 * Open your web browser and navigate to http://localhost:8000 to access the application.
 
