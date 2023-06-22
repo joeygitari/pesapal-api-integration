@@ -33,11 +33,7 @@ https://developer.pesapal.com/how-to-integrate/api-30-json/api-reference
 ```
 * Run the following commands to install the required dependencies.
 ```
-$ pip install fastapi
-```
-```
-$ pip install uvicorn
-```
+$ pip install -r requirements.txt
 
 ## Known bugs
 There are no known bugs at the moment. 😎
